@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    /* position: relative; */
+}
+
+.logo {
+    position: absolute;
+    top: 30vh;
+    left: 54vh;
+}
+
+.logoimg {
+    position: absolute;
+    top: 30vh;
+    left: 56vh;
+}
+
+.imgs {
+    position: absolute;
+    top: 1vh;
+    right: 2vh;
+}
+
+.search {
+    background-color: #f8f9fa;
+    border: 0 solid #f8f9fa;
+    position: absolute;
+    top: 50vh;
+    left: 56vh;
+    padding: 5px
+}
+
+.search_input {
+    position: absolute;
+    top: 43vh;
+    left: 48vh;
+    width: 400px;
+    height: 40px;
+    border-radius: 50px 50px;
+    border: 1px solid #dfe1e5;
+    padding-left: 10px;
+}
+.search:hover {
+    outline: 2px solid #dfe1e5;
+    border-radius: 3px 3px;
+}
+
+.lucky {
+    background-color: #f8f9fa;
+    border: 0 solid #f8f9fa;
+    position: absolute;
+    top: 50vh;
+    left: 73vh;
+    padding: 5px
+ }
+
+.adv {
+    position: absolute;
+    top: 1vh;
+    right: 10vh;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

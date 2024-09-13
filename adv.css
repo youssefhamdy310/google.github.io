@@ -1,0 +1,147 @@
+body {
+    background-color: #ffffff;
+}
+
+.logo {
+    position: absolute;
+    top: 2vh;
+    left: 2vh;
+    width: 120px;
+    height: 40px;
+}
+
+.word {
+    color: #d93025;
+    position: absolute;
+    top: 10vh;
+    left: 0;
+    font-size: 25px;
+    width: 142.5vh;
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+    padding-left: 15vh;
+}
+
+.find {
+    position: absolute;
+    top: 25vh;
+    left: 10vh;
+    font-size: 25px;
+    width: 142.5vh;
+}
+
+.onelabel {
+    position: absolute;
+    top: 35vh;
+    left: 10vh;
+    font-size: 25px;
+    width: 142.5vh;
+}
+
+.one {
+    position: absolute;
+    top: 35vh;
+    left: 50vh;
+    font-size: 25px;
+}
+
+.oneinput {
+    width: 700px;
+    padding-left: 15px;
+}
+
+.oneinput:focus {
+    outline: 1px solid #4d90fe;
+    box-shadow: inset 0px 1px 3px 0px;
+}
+.twolabel {
+    position: absolute;
+    top: 45vh;
+    left: 10vh;
+    font-size: 25px;
+    width: 142.5vh;
+}
+
+.two {
+    position: absolute;
+    top: 45vh;
+    left: 50vh;
+    font-size: 25px;
+}
+
+.twoinput {
+    width: 700px;
+    padding-left: 15px;
+}
+
+.twoinput:focus {
+    outline: 1px solid #4d90fe;
+    box-shadow: inset 0px 1px 3px 0px;
+}
+.threelabel {
+    position: absolute;
+    top: 55vh;
+    left: 10vh;
+    font-size: 25px;
+    width: 142.5vh;
+}
+
+.three {
+    position: absolute;
+    top: 55vh;
+    left: 50vh;
+    font-size: 25px;
+}
+
+.threeinput {
+    width: 700px;
+    padding-left: 15px;
+}
+
+.threeinput:focus {
+    outline: 1px solid #4d90fe;
+    box-shadow: inset 0px 1px 3px 0px;
+}
+.fourlabel {
+    position: absolute;
+    top: 65vh;
+    left: 10vh;
+    font-size: 25px;
+    width: 142.5vh;
+}
+
+.four {
+    position: absolute;
+    top: 65vh;
+    left: 50vh;
+    font-size: 25px;
+}
+
+.fourinput {
+    width: 700px;
+    padding-left: 15px;
+}
+
+.fourinput:focus {
+    outline: 1px solid #4d90fe;
+    box-shadow: inset 0px 1px 3px 0px;
+}
+
+.submit {
+    position: absolute;
+    top: 75vh;
+    left: 106vh;
+    background-color: #4b8df9;
+    border: 1px solid #3d74cc;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.submit:hover {
+    background-color: #3463af;
+}
+
+
+
